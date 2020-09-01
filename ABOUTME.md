@@ -5,10 +5,10 @@
 
 ### Merge conflicts in git
 
-(For my reference:) I have not been able to run the git upstream pull command because I have merge conflicts. 
+(For my reference:) I have not been able to run the git upstream pull command because I have merge conflicts.
 
-I think the merge conflict is because when I pushed my lab solutions to git after W1D2, I accidentally pushed them to the new branch I created in class "newfeature". So I went to github and merged this branch to my master branch manually. 
-*This was a mistake* 
+I think the merge conflict is because when I pushed my lab solutions to git after W1D2, I accidentally pushed them to the new branch I created in class "newfeature". So I went to github and merged this branch to my master branch manually.
+*This was a mistake*
 **A big mistake**
 
 This is a link to my forked repo on github:
@@ -16,8 +16,7 @@ This is a link to my forked repo on github:
 
 #### Solving merge conflicts in git:
 
-*To be continued...* 
+*To be continued...*
 We will use markdown to solve merge conflicts! You can also do this is jupyter
 
-
-
+This is my conflict branch
