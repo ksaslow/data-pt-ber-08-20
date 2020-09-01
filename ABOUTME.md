@@ -19,4 +19,4 @@ This is a link to my forked repo on github:
 *To be continued...*
 We will use markdown to solve merge conflicts! You can also do this is jupyter
 
-This is my master branch. 
+This is my master branch.
