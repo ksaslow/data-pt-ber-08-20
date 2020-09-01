@@ -20,3 +20,5 @@ This is a link to my forked repo on github:
 We will use markdown to solve merge conflicts! You can also do this is jupyter
 
 This is my master branch.
+
+This is what I am changing after making labconflict branch but checking out master again and making a change.
